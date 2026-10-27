@@ -28,6 +28,12 @@ Each dataset-specific directory contains:
 The original research datasets are not distributed in this repository.
 Users must obtain each dataset from its official source and comply with its
 license and terms of use.
+Zhang: https://data.mendeley.com/datasets/c5dxwn6w92/1 
+Zhu: https://zenodo.org/records/6405084
+Lu: https://data.mendeley.com/datasets/kw34hhw7xg/3
+Mohtat: https://deepblue.lib.umich.edu/data/concern/data_sets/5d86p0488
+NASA: https://data.nasa.gov/dataset/li-ion-battery-aging-datasets
+Severson: https://data.matr.io/1/
 
 ## Installation
 
